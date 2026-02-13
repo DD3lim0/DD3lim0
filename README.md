@@ -20,8 +20,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddelimond&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ddelimond" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DD3lim0&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ddelimond" /></p>
 <!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e0f14cee0aa6b85185fd1b?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddelimond&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DD3lim0&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
 
