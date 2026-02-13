@@ -1,4 +1,6 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)](https://ddelimond)
+
+# 💫 About Me:
 <h1 align="center">Hi :wave:, I'm Darren </h1>
 <h3 align="center">An Inquisitive Developer from Columbus Ohio</h3>
 
@@ -10,18 +12,20 @@
 
 - ⚡ Current books that I'm reading: Alice and Bob learn Web Security
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/darren-delimond-6b9297114) 
 
-<a href="https://linkedin.com/in/darren-delimond-6b9297114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-delimond-6b9297114" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DD3lim0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DD3lim0&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DD3lim0&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DD3lim0&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DD3lim0&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DD3lim0&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ddelimond" /></p>
-<!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e0f14cee0aa6b85185fd1b?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DD3lim0&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
