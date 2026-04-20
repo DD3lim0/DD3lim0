@@ -4,7 +4,7 @@
 <h1 align="center">Hi :wave:, I'm Darren </h1>
 <h3 align="center">An Inquisitive Developer from Columbus Ohio</h3>
 
-- 🔭 I’m currently working on building  SQL, SpringBoot , Node , and React applications while pursuing my BS in Computer Science.
+- 🔭 I’m currently working on building  SQL, Node , and React applications while pursuing my BS in Computer Science.
 
 - 👨‍💻 All of my projects can be found here at [https://darrendelimond.com/](https://darrendelimond.com)
 
